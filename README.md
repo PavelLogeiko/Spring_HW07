@@ -30,6 +30,6 @@
 
 ![5](https://github.com/PavelLogeiko/Spring_HW07/blob/main/images/5.png)
 
-![6](https://github.com/PavelLogeiko/Spring_HW07/blob/main/images/6.png)
+
 
 
